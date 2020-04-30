@@ -813,6 +813,86 @@
             "value": "The Wounded Lion II"
         },
         {
+            "key": "QE_ST_01050201",
+            "value": "When Forces Collide"
+        },
+        {
+            "key": "QE_ST_01050202",
+            "value": "Killer of the North"
+        },
+        {
+            "key": "QE_ST_01050203",
+            "value": "Spies Afoot I"
+        },
+        {
+            "key": "QE_ST_01050204",
+            "value": "Spies Afoot II"
+        },
+        {
+            "key": "QE_ST_01050205",
+            "value": "Spies Afoot III"
+        },
+        {
+            "key": "QE_ST_01050206",
+            "value": "Endowed Strength"
+        },
+        {
+            "key": "QE_ST_01050207",
+            "value": "Ambush"
+        },
+        {
+            "key": "QE_ST_01050208",
+            "value": "Swelling Abhorrence I"
+        },
+        {
+            "key": "QE_ST_01050209",
+            "value": "Swelling Abhorrence II"
+        },
+        {
+            "key": "QE_ST_01050210",
+            "value": "Last Resort"
+        },
+        {
+            "key": "QE_ST_01050301",
+            "value": "Entrapped"
+        },
+        {
+            "key": "QE_ST_01050302",
+            "value": "Schuzelt"
+        },
+        {
+            "key": "QE_ST_01050303",
+            "value": "Resolve"
+        },
+        {
+            "key": "QE_ST_01050304",
+            "value": "Golden Armor"
+        },
+        {
+            "key": "QE_ST_01050305",
+            "value": "Lies and Falsehoods I"
+        },
+        {
+            "key": "QE_ST_01050306",
+            "value": "Lies and Falsehoods II"
+        },
+        {
+            "key": "QE_ST_01050307",
+            "value": "First Defeat"
+        },
+        {
+            "key": "QE_ST_01050308",
+            "value": "Who Will Succeed"
+        },
+        {
+            "key": "QE_ST_01050309",
+            "value": "Rampaging Young Lion"
+        },
+        {
+            "key": "QE_ST_01050310",
+            "value": "«Solidus»"
+        },
+        {
             "key": "QE_HA_LW_ZZAN",
             "value": "Shard Quest: Zazan"
         },
@@ -1117,6 +1197,10 @@
             "value": "Nasha"
         },
         {
+            "key": "QE_CH_LW_ETRE",
+            "value": "Etre"
+        },
+        {
             "key": "QE_CH_LW_STRN",
             "value": "Sterne Leonis"
         },
@@ -1173,6 +1257,18 @@
             "value": "Thancred"
         },
         {
+            "key": "QE_CH_FFT_RAMZ",
+            "value": "Ramza"
+        },
+        {
+            "key": "QE_CH_FFT_GFGR",
+            "value": "Gaffgarion"
+        },
+        {
+            "key": "QE_CH_FFT_ORND",
+            "value": "Orlandeau"
+        },
+        {
             "key": "QE_EV_GL_1M_FIR",
             "value": "\"1 Million Downloads\" Celebratory Quest (Fire)"
         },
@@ -1203,6 +1299,10 @@
         {
             "key": "QE_EV_GL_1M_DAR",
             "value": "\"1 Million Downloads\" Celebratory Quest (Dark)"
+        },
+        {
+            "key": "QE_EV_GL_2M_JP",
+            "value": "\"2 Million Downloads\" Celebratory JP Reward Quest"
         },
         {
             "key": "QE_EV_FF14_01",
@@ -1239,6 +1339,62 @@
         {
             "key": "QE_EV_FF14_RD02",
             "value": "FINAL FANTASY XIV: Shadowbringers [Conquest] Lv. 10"
+        },
+        {
+            "key": "QE_EV_FFT_01",
+            "value": "FINAL FANTASY TACTICS Battle #1"
+        },
+        {
+            "key": "QE_EV_FFT_02",
+            "value": "FINAL FANTASY TACTICS Battle #2"
+        },
+        {
+            "key": "QE_EV_FFT_03",
+            "value": "FINAL FANTASY TACTICS Battle #3"
+        },
+        {
+            "key": "QE_EV_FFT_04",
+            "value": "Lionel Castle — Outer Gates"
+        },
+        {
+            "key": "QE_EV_FFT_05",
+            "value": "Lionel Castle — Interior"
+        },
+        {
+            "key": "QE_EV_FFT_06",
+            "value": "FINAL FANTASY TACTICS Battle #1 [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FFT_07",
+            "value": "FINAL FANTASY TACTICS Battle #2 [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FFT_08",
+            "value": "FINAL FANTASY TACTICS Battle #3 [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FFT_09",
+            "value": "Lionel Castle — Outer Gates [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FFT_10",
+            "value": "Lionel Castle — Interior [Intermediate]"
+        },
+        {
+            "key": "QE_EV_FFT_EX_01",
+            "value": "FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "QE_MU_FFT_EX_01",
+            "value": "FINAL FANTASY TACTICS [EX]"
+        },
+        {
+            "key": "QE_EV_GL_3M_DL",
+            "value": "\"3 Million Downloads\" Celebration Quest"
+        },
+        {
+            "key": "QE_EV_JP_001",
+            "value": "JP Reward Quest"
         },
         {
             "key": "QE_EV_01_01",
@@ -1297,6 +1453,62 @@
             "value": "The Admirable Prince [EX 2]"
         },
         {
+            "key": "QE_EV_ART_SCR_01",
+            "value": "High Difficulty Secret Book Reward Quest (Sword, Greatsword, Axe)"
+        },
+        {
+            "key": "QE_EV_ART_SCR_02",
+            "value": "High Difficulty Secret Book Reward Quest (Spear, Fists, Gun)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_01",
+            "value": "High Difficulty Secret Book Reward Quest (Sword, Greatsword, Axe)"
+        },
+        {
+            "key": "QE_MU_EV_SCR_02",
+            "value": "High Difficulty Secret Book Reward Quest (Spear, Fists, Gun)"
+        },
+        {
+            "key": "QE_EV_ETRE_01",
+            "value": "Etre Training Quest I"
+        },
+        {
+            "key": "QE_EV_ETRE_02",
+            "value": "Etre Training Quest II"
+        },
+        {
+            "key": "QE_EV_ETRE_03",
+            "value": "Etre Training Quest III"
+        },
+        {
+            "key": "QE_EV_ETRE_04",
+            "value": "Etre Training Quest IV"
+        },
+        {
+            "key": "QE_EV_ETRE_05",
+            "value": "Etre Training Quest V"
+        },
+        {
+            "key": "QE_EV_ETRE_06",
+            "value": "Etre Training Quest VI"
+        },
+        {
+            "key": "QE_EV_ETRE_EX1",
+            "value": "High Difficulty Etre Training Ex-Quest I"
+        },
+        {
+            "key": "QE_EV_ETRE_EX2",
+            "value": "High Difficulty Etre Training Ex-Quest II"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX1",
+            "value": "High Difficulty Etre Training Ex-Quest I"
+        },
+        {
+            "key": "QE_MU_EV_ET_EX2",
+            "value": "High Difficulty Etre Training Ex-Quest II"
+        },
+        {
             "key": "QE_EV_ANV_19_10",
             "value": "Release Commemoration Quest"
         },
@@ -1311,10 +1523,6 @@
         {
             "key": "QE_EV_ART_CRF_03",
             "value": "Equipment Training Quest (Advanced)"
-        },
-        {
-            "key": "QE_EV_GL_2M_JP",
-            "value": "\"2 Million Downloads\" Celebratory JP Reward Quest"
         },
         {
             "key": "QE_SB_IFRT_01",
@@ -1543,6 +1751,10 @@
         {
             "key": "QE_ARENA_00001",
             "value": "Arena"
+        },
+        {
+            "key": "QE_ARENA_00002",
+            "value": "Forest"
         },
         {
             "key": "QE_GVG_00001",

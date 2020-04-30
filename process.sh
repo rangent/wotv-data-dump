@@ -7,6 +7,7 @@ else
 	cd -P "./TextAsset/"
 
 	# rename, remove spaces and '#' symbols
+	echo "Fixing file names in TextAsset folder"
 	rename 's/ /_/g' *.txt
 	rename 's/#//g' *.txt
 

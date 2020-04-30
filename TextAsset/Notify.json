@@ -99,6 +99,14 @@
         {
             "key": "GPPREWARDS_DESC",
             "value": "You have received Google Play Points Rewards!"
+        },
+        {
+            "key": "ROYALRANKUP_TITLE",
+            "value": "Royal Rank increased!"
+        },
+        {
+            "key": "ROYALRANKUP_DESC",
+            "value": "Reached Royal Rank {0}."
         }
     ]
 }

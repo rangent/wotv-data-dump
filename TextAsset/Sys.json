@@ -4045,6 +4045,98 @@
             "value": "Auto Repeat does not feature Initial Placement or Companions."
         },
         {
+            "key": "DAY_TEXT",
+            "value": ""
+        },
+        {
+            "key": "HOUR_TEXT",
+            "value": "h"
+        },
+        {
+            "key": "MINUTE_TEXT",
+            "value": "m"
+        },
+        {
+            "key": "MONTH_TEXT",
+            "value": ""
+        },
+        {
+            "key": "SECOND_TEXT",
+            "value": "s"
+        },
+        {
+            "key": "YEAR_TEXT",
+            "value": ""
+        },
+        {
+            "key": "ACTIVEGUIDE_DIALOG_TITLE",
+            "value": "{0}"
+        },
+        {
+            "key": "ACTIVEGUIDE_DIALOG_MSG",
+            "value": "{0}."
+        },
+        {
+            "key": "SKIP_TUTORIAL_BATTLE_TITLE",
+            "value": "Skip the tutorial?"
+        },
+        {
+            "key": "SKIP_TUTORIAL_BATTLE_DESC",
+            "value": "The following will be skipped and downloading will commence.<br>・Tutorial Battle<br>・Opening Movie<br><br>The Opening Movie can be viewed later via Story Memories."
+        },
+        {
+            "key": "SKIP_TUTORIAL_YES",
+            "value": "Skip"
+        },
+        {
+            "key": "SKIP_TUTORIAL_NO",
+            "value": "Begin Tutorial"
+        },
+        {
+            "key": "VALUE_HOURS_MINUITES_SECONDS_COLON_FORMAT",
+            "value": "{0}:{1}:{2}"
+        },
+        {
+            "key": "VALUE_DAYS_SLASH_FORMAT",
+            "value": "{0}/{1}"
+        },
+        {
+            "key": "BUY_CURRENCY_EX",
+            "value": "[Paid]"
+        },
+        {
+            "key": "FREE_CURRENCY_EX",
+            "value": "[Free]"
+        },
+        {
+            "key": "ITEM_TARGET_LIST",
+            "value": "Target List"
+        },
+        {
+            "key": "READY_EX",
+            "value": "Ready!"
+        },
+        {
+            "key": "；編成画面 - オート周回",
+            "value": ""
+        },
+        {
+            "key": "MISSION_TIMEOUT_TRY_TITLE",
+            "value": "This mission is not available at this time."
+        },
+        {
+            "key": "MISSION_TIMEOUT_TRY_DESC",
+            "value": "This mission has expired. Unable to attempt."
+        },
+        {
+            "key": "NOTIFY_RUNOUT_FOOD",
+            "value": "Replenish provisions at the Guild Barracks!"
+        },
+        {
+            "key": "NOTIFY_CHOCOBO_ITEM_MAX",
+            "value": "Collect items found during Chocobo Expedition!"
+        },
+        {
             "key": "SNS_ACCOUNT_LIMIT_REACHED",
             "value": "SNS account limit reached"
         },
@@ -4083,30 +4175,6 @@
         {
             "key": "MEMORIE_STORY_PLAY_DESC",
             "value": "Story will be replayed. <br>Proceed?"
-        },
-        {
-            "key": "YEAR_TEXT",
-            "value": ""
-        },
-        {
-            "key": "MONTH_TEXT",
-            "value": ""
-        },
-        {
-            "key": "DAY_TEXT",
-            "value": ""
-        },
-        {
-            "key": "HOUR_TEXT",
-            "value": "h"
-        },
-        {
-            "key": "MINUTE_TEXT",
-            "value": "m"
-        },
-        {
-            "key": "SECOND_TEXT",
-            "value": "s"
         }
     ]
 }
