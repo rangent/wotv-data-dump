@@ -2817,6 +2817,30 @@
             "value": "Deals Earth Dmg (L) to targets within range based on caster's MAG stat."
         },
         {
+            "key": "SK_ODIN_ATK",
+            "value": ""
+        },
+        {
+            "key": "SK_ODIN_M_01",
+            "value": "Deals Pierce Dmg to enemies within target area."
+        },
+        {
+            "key": "SK_ODIN_M_02",
+            "value": "Transforms Gungnir into Einherjar on the next turn."
+        },
+        {
+            "key": "SK_ODIN_M_03",
+            "value": "Deals Non-Elemental MAG Dmg (L) to targets within range."
+        },
+        {
+            "key": "SK_ODIN_M_04",
+            "value": "Deals Non-Elemental Phys Dmg (M) to enemies within target area & chance of inflicting Instant Death."
+        },
+        {
+            "key": "SK_ODIN_R_01",
+            "value": "High chance of dealing Magic Dmg to units within area around self when taking Magic Dmg."
+        },
+        {
             "key": "SK_IGNT_ATK",
             "value": ""
         },
@@ -2994,11 +3018,11 @@
         },
         {
             "key": "SK_LB_LW_WHIS",
-            "value": "Deals Dmg (L) to targets within area around self & lowers Bravery for 3 turns."
+            "value": "Deals Dmg (L) to targets within area around self & lowers Bravery."
         },
         {
             "key": "SK_LB_LW_WHIS_B",
-            "value": "Deals Dmg (XL) to targets within area around self & lowers Bravery for 3 turns."
+            "value": "Deals Dmg (L) to targets within area around self & lowers Bravery."
         },
         {
             "key": "SK_LB_LW_MACR",
@@ -3051,6 +3075,10 @@
         {
             "key": "SK_SMN_SIRE",
             "value": "Evokes Siren, deals Water Dmg (Max) to targets within range & activates temporary Map Effects (raises allies' ATK/MAG & significantly lowers enemies' Water Res)."
+        },
+        {
+            "key": "SK_SMN_ODIN",
+            "value": "Evokes Odin, deals Non-Elemental Dmg (Max) to targets within range & activates temporary Map Effect (raises allies' Critical Hit Rate)."
         },
         {
             "key": "SK_SMN_IGNT",
@@ -3401,6 +3429,14 @@
             "value": "Slash ATK +10, DEF +5"
         },
         {
+            "key": "SK_MA_LW_P_WHIS",
+            "value": "Slash ATK +5, All Attack Res +5"
+        },
+        {
+            "key": "SK_MA_LW_P_KTON",
+            "value": "Evasion Rate +15"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Slash ATK +2"
         },
@@ -3541,6 +3577,14 @@
             "value": "Bestows a barrier on self that reduces Dmg (3 times)."
         },
         {
+            "key": "SK_HAT_LW_WHIS_1_1",
+            "value": "Consumes own HP to significantly raise ally's DEF/SPR for 1 turn."
+        },
+        {
+            "key": "SK_ARW_LW_KTON_1_1",
+            "value": "Raises own Move/Jump by 1 for 3 turns & decreases chance of being targeted."
+        },
+        {
             "key": "SK_ROD_LW_HLNA_1_1",
             "value": ""
         },
@@ -3586,6 +3630,10 @@
         },
         {
             "key": "SK_ROD_LW_MGRT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_HAT_LW_WHIS_1_2",
             "value": ""
         },
         {
@@ -3662,6 +3710,10 @@
         },
         {
             "key": "SK_ARM_LW_DRZA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_KTON_1_1",
             "value": ""
         },
         {
@@ -3793,6 +3845,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ODIN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_SOKYU_GS",
             "value": ""
         },
@@ -3862,6 +3926,14 @@
         },
         {
             "key": "SK_VC_FF14_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GSAW",
             "value": ""
         },
         {
@@ -4209,6 +4281,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ODIN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_FFT_MV1_P",
             "value": ""
         },
@@ -4298,6 +4382,14 @@
         },
         {
             "key": "SK_VC_FF14_MV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_PAW",
             "value": ""
         },
         {
@@ -4474,6 +4566,14 @@
         },
         {
             "key": "SK_BTL_MAG_1-999_D",
+            "value": "Quest-balancing skill"
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U",
+            "value": "Quest-balancing skill"
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U",
             "value": "Quest-balancing skill"
         },
         {

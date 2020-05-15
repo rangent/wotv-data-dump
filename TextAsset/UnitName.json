@@ -201,6 +201,14 @@
             "value": "Orlandeau"
         },
         {
+            "key": "UN_LW_P_WHIS",
+            "value": "\"Whisper\""
+        },
+        {
+            "key": "UN_LW_P_KTON",
+            "value": "Kitone"
+        },
+        {
             "key": "UN_LW_P_MURG",
             "value": "Muraga Fennes"
         },
@@ -295,6 +303,18 @@
         {
             "key": "UN_LW_E_DRND",
             "value": "Dorando"
+        },
+        {
+            "key": "UN_LW_E_SRJS",
+            "value": "Serjes"
+        },
+        {
+            "key": "UN_LW_E_UNII",
+            "value": "Yuni"
+        },
+        {
+            "key": "UN_LW_E_SEVR",
+            "value": "Severo"
         },
         {
             "key": "UN_LW_E_TH_00",
@@ -605,6 +625,10 @@
             "value": "Shinobi (F)"
         },
         {
+            "key": "UN_LW_E_PR_01_HUN",
+            "value": "Sanctum Monk"
+        },
+        {
             "key": "UN_LW_E_PR_01_GUN",
             "value": "Sanctum Monk"
         },
@@ -674,6 +698,10 @@
         },
         {
             "key": "UN_LW_E_MABR_02",
+            "value": "Great Malboro"
+        },
+        {
+            "key": "UN_LW_E_MABR_03",
             "value": "Great Malboro"
         },
         {
@@ -813,6 +841,10 @@
             "value": "Red Giant"
         },
         {
+            "key": "UN_LW_E_IGNT_2",
+            "value": "Automaton"
+        },
+        {
             "key": "UN_LW_E_IGNT_HUN",
             "value": "Fennes Soldier"
         },
@@ -845,6 +877,10 @@
             "value": "Metal Cactuar"
         },
         {
+            "key": "UN_LW_E_CACT_02",
+            "value": "Metal Cactuar"
+        },
+        {
             "key": "UN_LW_E_IFRT",
             "value": "Ifrit"
         },
@@ -865,8 +901,16 @@
             "value": "Golem"
         },
         {
+            "key": "UN_LW_E_ODIN",
+            "value": "Odin"
+        },
+        {
             "key": "UN_LW_E_IFRT_SIREN",
             "value": "Ifrit"
+        },
+        {
+            "key": "UN_LW_E_ODIN_SIREN",
+            "value": "Odin"
         },
         {
             "key": "UN_LW_E_SIRE_SIREN",
@@ -1247,6 +1291,18 @@
         {
             "key": "UN_LW_S_RAMU_AW2",
             "value": "Ramuh"
+        },
+        {
+            "key": "UN_LW_S_ODIN",
+            "value": "Odin"
+        },
+        {
+            "key": "UN_LW_S_ODIN_AW1",
+            "value": "Odin"
+        },
+        {
+            "key": "UN_LW_S_ODIN_AW2",
+            "value": "Odin"
         },
         {
             "key": "UN_GM_TREASURE",

@@ -2817,6 +2817,30 @@
             "value": "Fragmental Rock"
         },
         {
+            "key": "SK_ODIN_ATK",
+            "value": "Normal Attack"
+        },
+        {
+            "key": "SK_ODIN_M_01",
+            "value": "Gungnir"
+        },
+        {
+            "key": "SK_ODIN_M_02",
+            "value": "Evoke Einherjar"
+        },
+        {
+            "key": "SK_ODIN_M_03",
+            "value": "Einherjar"
+        },
+        {
+            "key": "SK_ODIN_M_04",
+            "value": "Zantetsuken"
+        },
+        {
+            "key": "SK_ODIN_R_01",
+            "value": "Counter"
+        },
+        {
             "key": "SK_IGNT_ATK",
             "value": "Normal Attack"
         },
@@ -2986,11 +3010,11 @@
         },
         {
             "key": "SK_LB_LW_KTON",
-            "value": "Kitone's Skill"
+            "value": "Saiga Shadowbind"
         },
         {
             "key": "SK_LB_LW_KTON_B",
-            "value": "Kitone's Skill+"
+            "value": "Saiga Shadowbind+"
         },
         {
             "key": "SK_LB_LW_WHIS",
@@ -3051,6 +3075,10 @@
         {
             "key": "SK_SMN_SIRE",
             "value": "Lunatic Voice"
+        },
+        {
+            "key": "SK_SMN_ODIN",
+            "value": "Zantetsuken"
         },
         {
             "key": "SK_SMN_IGNT",
@@ -3401,6 +3429,14 @@
             "value": "Master Ability"
         },
         {
+            "key": "SK_MA_LW_P_WHIS",
+            "value": "Master Ability"
+        },
+        {
+            "key": "SK_MA_LW_P_KTON",
+            "value": "Master Ability"
+        },
+        {
             "key": "SK_LW_SLASH_1",
             "value": "Slash ATK +2"
         },
@@ -3541,6 +3577,14 @@
             "value": "Bolt Barrage"
         },
         {
+            "key": "SK_HAT_LW_WHIS_1_1",
+            "value": "Dove's Embrace"
+        },
+        {
+            "key": "SK_ARW_LW_KTON_1_1",
+            "value": "Fleet of Foot"
+        },
+        {
             "key": "SK_ROD_LW_HLNA_1_1",
             "value": ""
         },
@@ -3586,6 +3630,10 @@
         },
         {
             "key": "SK_ROD_LW_MGRT_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_HAT_LW_WHIS_1_2",
             "value": ""
         },
         {
@@ -3662,6 +3710,10 @@
         },
         {
             "key": "SK_ARM_LW_DRZA_1_1",
+            "value": ""
+        },
+        {
+            "key": "SK_ARM_LW_KTON_1_1",
             "value": ""
         },
         {
@@ -3793,6 +3845,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ODIN_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_GSMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_LW_SOKYU_GS",
             "value": ""
         },
@@ -3862,6 +3926,14 @@
         },
         {
             "key": "SK_VC_FF14_MV1_GSMAX",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GS",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_GSAW",
             "value": ""
         },
         {
@@ -4209,6 +4281,18 @@
             "value": ""
         },
         {
+            "key": "SK_VC_LW_ODIN_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_ODIN_PMAX",
+            "value": ""
+        },
+        {
             "key": "SK_VC_FFT_MV1_P",
             "value": ""
         },
@@ -4298,6 +4382,14 @@
         },
         {
             "key": "SK_VC_FF14_MV2_PAW",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_P",
+            "value": ""
+        },
+        {
+            "key": "SK_VC_LW_NEWYEAR_PAW",
             "value": ""
         },
         {
@@ -4475,6 +4567,14 @@
         {
             "key": "SK_BTL_MAG_1-999_D",
             "value": "MAG 1-999 Down"
+        },
+        {
+            "key": "SK_BTL_DF_1-80_U",
+            "value": "DEF 1-80 Up"
+        },
+        {
+            "key": "SK_BTL_MDF_1-80_U",
+            "value": "SPR 1-80 Up"
         },
         {
             "key": "SK_BTL_SPD_1-999_D",
